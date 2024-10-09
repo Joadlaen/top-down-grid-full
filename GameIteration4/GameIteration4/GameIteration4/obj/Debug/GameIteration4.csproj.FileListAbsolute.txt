@@ -1,0 +1,22 @@
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\bin\Debug\GameIteration4.exe.config
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\bin\Debug\GameIteration4.exe
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\bin\Debug\GameIteration4.pdb
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.Form1.resources
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.Properties.Resources.resources
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.csproj.GenerateResource.cache
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.csproj.CoreCompileInputs.cache
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.exe
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.pdb
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.PauseMenu.resources
+X:\Jacksons Coding\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.csproj.AssemblyReference.cache
+D:\GameIteration4\GameIteration4\GameIteration4\bin\Debug\GameIteration4.exe.config
+D:\GameIteration4\GameIteration4\GameIteration4\bin\Debug\GameIteration4.exe
+D:\GameIteration4\GameIteration4\GameIteration4\bin\Debug\GameIteration4.pdb
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.csproj.AssemblyReference.cache
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.Form1.resources
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.PauseMenu.resources
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.Properties.Resources.resources
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.csproj.GenerateResource.cache
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.csproj.CoreCompileInputs.cache
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.exe
+D:\GameIteration4\GameIteration4\GameIteration4\obj\Debug\GameIteration4.pdb
